@@ -3,7 +3,7 @@ Version: **{version}**
 Latency: **{latency} ms**
 Number of servers: **{servers}**
 Number of users: **{users}**
-Developer: **Anime no Sekai**
+Developer: **Carriço**
 Programming Language: **Python**\
 """
 

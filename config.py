@@ -10,8 +10,7 @@ COMMAND_PREFIX = "."
 ROGER_REACTION = "<:easygif_roger:712005159676411914>"
 
 # Tenor Random
-RANDOM_DICTIONARY = ["anime", "japan", "manga",
-                     "tech", "technology", "coding", "music"]
+RANDOM_DICTIONARY = ["cat", "hedgehog", "cute dog", "otter"]
 
 # Request
 REQUEST_CACHE_TTL = 3600
